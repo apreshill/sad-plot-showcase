@@ -16,7 +16,11 @@ Plots come in all shapes and sizes. But plots can also spark joy or sadness for 
 
 # Why Share Your Sad Plot
 
-I originally did a talk about [my own sad plot](https://apreshill.github.io/ohsu-biodatavis/slides.html#1) last year. I have more than my fair share of sad plots :sob: For teaching and more talks over the next few months, I'm looking for other people to share their sad plots with me. I want to hear and see your sad plot stories.
+I originally did a talk about [my own sad plot](https://apreshill.github.io/ohsu-biodatavis/slides.html#1) last year. 
+
+![](images/loathing-commit.png)
+
+I have more than my fair share of sad plots :sob: For teaching and more talks over the next few months, I'm looking for other people to share their sad plots with me. I want to hear and see your sad plot stories.
 
 I will **NOT** be publicly shaming anyone- the intent here is to normalize for beginners that:
 
