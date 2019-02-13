@@ -32,7 +32,7 @@ Depending on how many plots we see, I may try to build a showcase website so we 
 
 # How to Submit
 
-You can do it through posting an issue or a creating a pull request in this repo, with a line saying "I give Alison Hill permission to use this in presentations that may be part of her work at RStudio." You can submit just a plot (`.png` works), or you could link to the code too if you want and it's easily shareable. Give them their own folder within [`the-sad-plot-file`](https://github.com/apreshill/sad-plot-showcase/tree/master/the-sad-plot-file). You can also tweet your sad plot at me [@apreshill](https://twitter.com/apreshill).
+You can do it through posting an issue or creating a pull request in this repo, with a line saying "I give Alison Hill permission to use this in presentations that may be part of her work at RStudio." You can submit just a plot (`.png` works), or you could link to the code too if you want and it's easily shareable. Give them their own folder within [`the-sad-plot-file`](https://github.com/apreshill/sad-plot-showcase/tree/master/the-sad-plot-file). You can also tweet your sad plot at me [@apreshill](https://twitter.com/apreshill).
 
 # Credit
 
